@@ -48,7 +48,7 @@ Me chamo Fabiano da Silva, tenho 20 anos e sou natural do Espirito Santo, mas vi
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-  />         
+/>         
 
   <img 
     align="left" 
@@ -56,7 +56,8 @@ Me chamo Fabiano da Silva, tenho 20 anos e sou natural do Espirito Santo, mas vi
     title="ASP.NET CORE" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />       
-  />    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
+/>       
+    
 
           
