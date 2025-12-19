@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend`**
 
-Me chamo Fabiano da Silva, tenho 20 anos e sou natural do Espirito Santo, mas vivo atualmente na Bahia. Atualmente, estou cursando Engenharia de Software na UNIASSELV. Passei boa parte da minha vida envolvido na tecnologia e compartilho um pouco do meu conhecimento através desse repositório.
+Me chamo Fabiano da Silva, tenho 20 anos e sou natural do Espirito Santo, mas vivo atualmente na Bahia. Estou cursando Engenharia de Software na UNIASSELV. Passei boa parte da minha vida envolvido na tecnologia e compartilho um pouco do meu conhecimento através desse repositório.
 
 <p align="left">
     </a> 
